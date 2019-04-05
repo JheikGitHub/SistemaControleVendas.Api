@@ -1,0 +1,12 @@
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\bin\Debug\netcoreapp2.1\SistemaControleVendas.Infra.deps.json
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\bin\Debug\netcoreapp2.1\SistemaControleVendas.Infra.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\bin\Debug\netcoreapp2.1\SistemaControleVendas.Infra.pdb
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\bin\Debug\netcoreapp2.1\SistemaControleVendas.Dominio.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\bin\Debug\netcoreapp2.1\SistemaControleVendas.Dominio.pdb
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.csprojAssemblyReference.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.AssemblyInfoInputs.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.AssemblyInfo.cs
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.csproj.CopyComplete
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Infra\obj\Debug\netcoreapp2.1\SistemaControleVendas.Infra.pdb

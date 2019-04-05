@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaControleVendas.Dominio\SistemaControleVendas.Dominio.csproj" />
+    <ProjectReference Include="..\SistemaControleVendas.Infra\SistemaControleVendas.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

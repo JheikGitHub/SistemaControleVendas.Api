@@ -1,0 +1,14 @@
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.deps.json
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.pdb
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Dominio.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Infra.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Dominio.pdb
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\bin\Debug\netcoreapp2.1\SistemaControleVendas.Infra.pdb
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.csprojAssemblyReference.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.AssemblyInfoInputs.cache
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.AssemblyInfo.cs
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.csproj.CopyComplete
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.dll
+C:\Users\jheik\source\repos\SerieAspnetCore\SistemaControleVendas\SistemaControleVendas.Servicos\obj\Debug\netcoreapp2.1\SistemaControleVendas.Servicos.pdb
